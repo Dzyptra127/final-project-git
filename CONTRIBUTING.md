@@ -1,24 +1,17 @@
-# Panduan Berkontribusi
+# Pedoman Kontribusi
 
-Terima kasih atas minat Anda berkontribusi! Semua bentuk partisipasi sangat dihargai.
+Terima kasih sudah tertarik berkontribusi! Semua bentuk kontribusi sangat kami hargai, termasuk:
 
-## Hal yang Diterima
+- Melaporkan kesalahan atau bug
+- Memperbaiki kode yang bermasalah
+- Meningkatkan dan melengkapi dokumentasi
+- Menyempurnakan kode program
+- Memberikan ide, saran, dan masukan
 
-### Laporan Bug
-- Pastikan belum ada laporan serupa
-- Jelaskan masalah dan langkah untuk mengulanginya
-- Sertakan informasi lingkungan yang digunakan
+## Cara Berpartisipasi
+1. Buat cabang baru untuk perubahan
+2. Lakukan perubahan sesuai kebutuhan
+3. Kirimkan perubahan melalui Pull Request
+4. Tunggu peninjauan dan diskusi
 
-### Perbaikan Bug
-- Buat cabang baru untuk perbaikan
-- Uji coba perubahan
-- Kirim Permintaan Tarik dengan penjelasan masalah dan solusi
-
-### Peningkatan Dokumentasi
-- Koreksi kesalahan penulisan, kejelasan, atau penambahan informasi
-- Ikuti gaya penulisan yang sudah ada
-
-### Peningkatan & Ide Baru
-- Ide baru sangat diterima! Diskusikan terlebih dahulu lewat Issues
-- Jelaskan manfaat perubahan yang diusulkan
-- Ikuti standar kode proyek
+Semua kontributor akan dicatat dan dihargai.
